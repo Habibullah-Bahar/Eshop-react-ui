@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #f42c37;
+  --color-secondary: #f42c37;
+  --color-brandYellow: #fdc62e;
+  --color-brandGreen: #2dcc6f;
+  --color-brandBlue: #1376f4;
+  --color-brandWhite: #eeeeee;
+}
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 1rem;
+
+  @media (width >= 640px) {
+    padding-inline: 3rem;
+  }
+}
+@layer utilities {
+  .hero-bg-color{
+    @apply bg-gradient-to-r from-gray-300/80 to-gray-100 dark:from-gray-900 dark:to-gray-800 dark:text-white
+  }
+}
+
