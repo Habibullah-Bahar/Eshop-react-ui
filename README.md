@@ -1,16 +1,37 @@
-# React + Vite
+# Eshop - React E-commerce UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive e-commerce user interface built with **React, Vite, Tailwind CSS, Swiper, and React Icons**.
 
-Currently, two official plugins are available:
+This project focuses on creating a clean, responsive, and interactive shopping experience with reusable React components and modern UI animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* Responsive e-commerce UI
+* Modern and clean design
+* Dark mode support
+* Responsive navigation bar
+* Search bar with responsive interaction
+* Hero image slider with Swiper
+* Product categories section
+* Product showcase section
+* Promotional banners
+* Services section
+* Blog section
+* Partners section
+* Footer with social links
+* Shopping cart popup
+* Smooth UI animations
+* Mobile, tablet, and desktop responsive layout
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the Oxlint configuration
+* **React.js**
+* **Vite**
+* **Tailwind CSS**
+* **Swiper.js**
+* **Motion**
+* **AOS**
+* **React Icons**
+* **JavaScript (ES6+)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 📂 Pro
