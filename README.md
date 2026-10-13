@@ -1,4 +1,4 @@
-# 🛍️ eShop - React E-Commerce UI
+# 🛍️ Eshop - React E-Commerce UI
 
 A modern and responsive e-commerce website built with React. This project focuses on creating an attractive shopping interface with a clean layout, reusable components, and a smooth user experience.
 
